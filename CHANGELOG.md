@@ -1,3 +1,7 @@
+## 2.0.2 (2017-09-06)
+
+- Updated: Dependencies
+
 ## 1.4.0 (2015-10-24)
 
 - Added: At-Root 0.1.2
