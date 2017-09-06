@@ -1,6 +1,6 @@
 {
   "name": "precss",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Use Sass-like markup in your CSS",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",
@@ -19,7 +19,7 @@
     "test:tape": "tape test/*.js | tap-spec"
   },
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=7.0.0"
   },
   "dependencies": {
     "postcss": "^6.0.11",
